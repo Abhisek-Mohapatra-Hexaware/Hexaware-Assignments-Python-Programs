@@ -1,4 +1,4 @@
-num=input("Enter a number ")
+num=int(input("Enter a number "))
 print("The digit is ",num)
 if(num==0):
     print("Zero")
