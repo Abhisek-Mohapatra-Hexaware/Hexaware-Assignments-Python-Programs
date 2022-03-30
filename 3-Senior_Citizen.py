@@ -1,4 +1,4 @@
-age=input("Enter your age: ")
+age=int(input("Enter your age: "))
 if(age>=60)
   print("Senior Citizen");
 else:
